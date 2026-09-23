@@ -1,0 +1,163 @@
+[
+  {
+    "recordId": "AF-01",
+    "transactionId": "TXN-2026-01",
+    "liveTransaction": {
+      "amount": 24003.73,
+      "currency": "SEK",
+      "deviceFingerprint": {
+        "os": "iOS 17.4",
+        "browser": "Safari 17.4",
+        "ipAddress": "198.51.100.63",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4) Safari/17.4"
+      },
+      "distanceKm": 1509.14
+    },
+    "storedProfile": {
+      "historicalAvgAmount": 14200.0,
+      "knownDeviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      }
+    }
+  },
+  {
+    "recordId": "AF-02",
+    "transactionId": "TXN-2026-02",
+    "liveTransaction": {
+      "amount": 17455.8,
+      "currency": "SEK",
+      "deviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      },
+      "distanceKm": 1314.34
+    },
+    "storedProfile": {
+      "historicalAvgAmount": 9500.0,
+      "knownDeviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      }
+    }
+  },
+  {
+    "recordId": "AF-03",
+    "transactionId": "TXN-2026-03",
+    "liveTransaction": {
+      "amount": 56680.0,
+      "currency": "SEK"
+    },
+    "storedProfile": {
+      "historicalAvgAmount": 21800.0,
+      "knownDeviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      }
+    }
+  },
+  {
+    "recordId": "AF-04",
+    "transactionId": "TXN-2026-04",
+    "liveTransaction": {
+      "amount": 63481.6,
+      "currency": "SEK",
+      "deviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      },
+      "distanceKm": 1509.14
+    },
+    "storedProfile": {
+      "historicalAvgAmount": 76518.0,
+      "knownDeviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      }
+    }
+  },
+  {
+    "recordId": "AF-05",
+    "transactionId": "TXN-2026-05",
+    "liveTransaction": {
+      "amount": 23631.6,
+      "currency": "SEK",
+      "deviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      },
+      "distanceKm": 135.54
+    },
+    "storedProfile": {
+      "historicalAvgAmount": 21800.0,
+      "knownDeviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      }
+    }
+  },
+  {
+    "recordId": "AF-06",
+    "transactionId": "TXN-2026-06",
+    "liveTransaction": {
+      "amount": 39449.71,
+      "currency": "SEK",
+      "deviceFingerprint": {
+        "os": "iOS 17.4",
+        "browser": "Safari 17.4",
+        "ipAddress": "198.51.100.63",
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4) Safari/17.4"
+      },
+      "distanceKm": 378.61
+    },
+    "storedProfile": {
+      "historicalAvgAmount": 21800.0,
+      "knownDeviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      }
+    }
+  },
+  {
+    "recordId": "AF-07",
+    "transactionId": "TXN-2026-07",
+    "liveTransaction": {
+      "amount": 16836.24,
+      "currency": "SEK",
+      "deviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      },
+      "distanceKm": 1509.14
+    },
+    "storedProfile": {
+      "historicalAvgAmount": 14200.0,
+      "knownDeviceFingerprint": {
+        "os": "Windows 11",
+        "browser": "Firefox 128.0",
+        "ipAddress": "203.0.113.71",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Firefox/128.0"
+      }
+    }
+  }
+]
